@@ -10,6 +10,7 @@ public class Main {
 
         NewYorkTimes nyt = new NewYorkTimes();
 
+	//this is the second's branch awesomeness
         nyt.subcribe(rasmus);
         nyt.subcribe(minh);
 

@@ -1,4 +1,4 @@
-/**
+x/**
  * Created by blackhatt on 09/03/2017.
  */
 public class Main {
@@ -12,6 +12,8 @@ public class Main {
 
 	//this is the second's branch awesomeness
         nyt.subcribe(rasmus);
+
+NewYorkTime nytu = new NewYorkTimes();
         nyt.subcribe(minh);
 
         Article a1 = new Article("Donald trumped the trumpet","blah blah bleu blah", "Authorincus");

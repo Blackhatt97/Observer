@@ -6,11 +6,7 @@ public class Main {
     public static void main(String[] args) {
 
         Person rasmus = new Person("Rasmus");
-<<<<<<< HEAD
-       
-=======
         Person minhel = new Person("Mihnel");
->>>>>>> 85f90be73a5a1e5b4bcc8171911c2c2e2c049414
 
         NewYorkTimes nyt = new NewYorkTimes();
 

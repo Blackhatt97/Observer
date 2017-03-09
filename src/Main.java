@@ -6,7 +6,7 @@ public class Main {
     public static void main(String[] args) {
 
         Person rasmus = new Person("Rasmus");
-        Person minh = new Person("Minh");
+        Person minhel = new Person("Minh");
 
         NewYorkTimes nyt = new NewYorkTimes();
 
